@@ -3,6 +3,7 @@ I completed the **MUI Advanced Course** on Udemy, and you can view my certificat
 
 # **MUI Advanced Course**
 Link to the course: [View Course](https://www.udemy.com/course/advanced-material-ui-component-styling-the-complete-course/).
+
 **Learn to style any MUI component**: Dive deep into the DOM, understand MUI class rules, and ace the most difficult props.
 
 This repository contains the code for the **MUI Advanced Course**, where we dive deep into Material UI (MUI) and explore advanced techniques for building modern React applications with MUI components.
